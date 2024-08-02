@@ -5,3 +5,4 @@ total_questions=3
 
 if answer.lower() == "yes":
     answer = input("Question1: ")
+    if answer.lower() == "yes":
